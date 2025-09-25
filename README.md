@@ -1,12 +1,4 @@
-<p align="center">
-  
-<img width="1917" height="895" alt="Screenshot 2025-08-26 200003" src="https://github.com/user-attachments/assets/26e8cb6e-a3c5-4b84-ab17-600799fa56d9" />
-<img width="1072" height="895" alt="Screenshot 2025-08-27 203225" src="https://github.com/user-attachments/assets/d6a191a6-c131-4630-b07d-4230895f6ac0" />
-<img width="1918" height="897" alt="Screenshot 2025-08-26 200225" src="https://github.com/user-attachments/assets/12615cac-d24a-467a-995f-043b65a49d6f" />
-<img width="1919" height="909" alt="Screenshot 2025-08-26 200211" src="https://github.com/user-attachments/assets/9b2bb396-7439-4777-8571-e7215b04e7e0" />
-<img width="1902" height="887" alt="Screenshot 2025-08-22 230109" src="https://github.com/user-attachments/assets/b13fe516-894b-43bc-91b9-3b081ca1e043" />
 
-</p>
 
 <h1 align="center">AI Agents for Diagram Generation</h1>
 
@@ -27,9 +19,14 @@
 <!-- You can replace this screenshot with an animated GIF of the app in action -->
 <!-- GIF DEMO -->
 <p align="center">
-  <img src="https://github.com/mouadziani/mouadziani/blob/main/chat.png?raw=true" alt="Application Screenshot" width="80%">
-</p>
+  
+<img width="1917" height="895" alt="Screenshot 2025-08-26 200003" src="https://github.com/user-attachments/assets/26e8cb6e-a3c5-4b84-ab17-600799fa56d9" />
+<img width="1072" height="895" alt="Screenshot 2025-08-27 203225" src="https://github.com/user-attachments/assets/d6a191a6-c131-4630-b07d-4230895f6ac0" />
+<img width="1918" height="897" alt="Screenshot 2025-08-26 200225" src="https://github.com/user-attachments/assets/12615cac-d24a-467a-995f-043b65a49d6f" />
+<img width="1919" height="909" alt="Screenshot 2025-08-26 200211" src="https://github.com/user-attachments/assets/9b2bb396-7439-4777-8571-e7215b04e7e0" />
+<img width="1902" height="887" alt="Screenshot 2025-08-22 230109" src="https://github.com/user-attachments/assets/b13fe516-894b-43bc-91b9-3b081ca1e043" />
 
+</p>
 ---
 
 ## 🎯 About The Project
