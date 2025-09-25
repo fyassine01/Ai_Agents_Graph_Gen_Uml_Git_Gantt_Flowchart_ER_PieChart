@@ -176,4 +176,4 @@ This project was developed as a final-year project at ENSA Berrechid, under the 
 
 Yassine FARAH - [@farah-yassine](https://www.linkedin.com/in/farah-yassine/) - yassine.farahee@gmail.com
 
-Project Link: [https://github.com/fyassine01/AI_agent_generative_diagram](https://github.com/fyassine01/AI_agent_generative_diagram)
+Project Link: [https://github.com/fyassine01/Ai_Agents_Graph_Gen_Uml_Git_Gantt_Flowchart_ER_PieChar](https://github.com/fyassine01/Ai_Agents_Graph_Gen_Uml_Git_Gantt_Flowchart_ER_PieChar)
