@@ -51,15 +51,12 @@ Users can simply describe the diagram they need in plain text, and our system of
 
 The application is built on a decoupled, service-oriented architecture to ensure scalability and maintainability.
 
-### System Flow
+### System Flow & Layered Architecture
 <p align="center">
-  <img src="https://github.com/mouadziani/mouadziani/blob/main/archi1.png?raw=true" alt="System Architecture Flow" width="80%">
+  <img width="998" height="456" alt="Screenshot 2025-09-23 141147" src="https://github.com/user-attachments/assets/5ddaeb3a-3bd1-41ec-ae70-deb413163f90" />
+
 </p>
 
-### Layered Architecture
-<p align="center">
-  <img src="https://github.com/mouadziani/mouadziani/blob/main/archi2.png?raw=true" alt="Layered Architecture" width="60%">
-</p>
 
 ### Technologies Used
 
