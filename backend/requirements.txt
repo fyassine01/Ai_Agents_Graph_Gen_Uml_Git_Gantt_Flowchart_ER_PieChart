@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+groq
+passlib[bcrypt]
+python-jose[cryptography]
+alembic
+psycopg2-binary # Même si on utilise SQLite au début, utile pour une future migration vers PostgreSQL
