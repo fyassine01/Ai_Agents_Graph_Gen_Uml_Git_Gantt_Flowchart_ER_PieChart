@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mouadziani/mouadziani/main/5516991.jpg" alt="Project Logo" width="150">
+<img width="1903" height="897" alt="Screenshot 2025-08-22 170010" src="https://github.com/user-attachments/assets/fd451a92-825a-48ee-bab2-99e8e67520e0" />
 </p>
 
 <h1 align="center">AI Agents for Diagram Generation</h1>
